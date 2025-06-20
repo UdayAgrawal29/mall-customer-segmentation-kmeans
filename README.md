@@ -10,9 +10,4 @@ This project applies K-Means clustering to segment mall customers based on their
 - Visualized clusters with centroids using Matplotlib
 - 5 clusters representing different spending/income profiles
 
-## Requirements
-- pandas
-- matplotlib
-- seaborn
-- scikit-learn
 
